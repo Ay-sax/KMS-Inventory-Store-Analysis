@@ -219,7 +219,7 @@ ORDER BY Customer_Name, Total_Spent DESC
 
 This table explicitly shows the different products each top customer has purchased, the number of times purchased, and the revenue gained by the company.
 
-I also analysed to get the customer that haad the highest sales for a small business.
+I also analysed to get the customer that had the highest sales for a small business.
 
 ``` SQL
 -- Small Business Customer with the Highest Sales
